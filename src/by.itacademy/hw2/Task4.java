@@ -6,7 +6,7 @@ public class Task4 {
         double number_d = (int) number_i; // автоматическое преобразованием: int в double
 
         System.out.println(number_i);   // Выведет 10
-        System.out.println(number_d);   // Выведет 10.0
+       // System.out.println(number_d);   // Выведет 10.0
 
         double number_a = 10.25;
         int number_b = (int) number_a; // сужающее преобразование, перед переменной в скобках имя типа
