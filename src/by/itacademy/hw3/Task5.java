@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Task5 {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
-        int min = 46;
+        int min = sc.nextInt();
         if (min >= 0 && min <= 14) {
             System.out.println("первая");
         }

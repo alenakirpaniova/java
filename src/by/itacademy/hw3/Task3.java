@@ -34,11 +34,11 @@ package src.by.itacademy.hw3;
             }
             else if (day == 6)
             {
-                System.out.println("суббота");
+                System.out.println("выходной");
             }
             else if (day == 7)
             {
-                System.out.println("воскресенье");
+                System.out.println("выходной");
             }
             else
             {
